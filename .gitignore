@@ -171,3 +171,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/LAB_14/gtsrb/
+/LAB_14/signnames.csv
+/LAB_14/trafficsignnet.keras
+/LAB_14/train_test.pickle
